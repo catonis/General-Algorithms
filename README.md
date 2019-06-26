@@ -1,1 +1,1 @@
-# general_algorithms
+Algorithms for general programming.
